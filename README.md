@@ -1,6 +1,6 @@
 # Koinx Frontend Task 
 
-###  This website is made for this Figma Design for Frontend Intern selection role for Koinx. 
+###  This website is made for this [Figma Design](https://www.figma.com/file/VRj5MqVPoQdj5N7AwmYc98?embed_host=notion&kind=file&mode=design&node-id=0-1&t=x8gdUiF5gA3sjRd3-0&type=design&viewer=1) for Frontend Intern selection role for Koinx. 
 
 #### It was quite challenging considering the amount of work to be done and the time constraints I had.
 ##
