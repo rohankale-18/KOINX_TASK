@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='w-screen py-2 sm:px-10 px-8 shadow  bg-white flex justify-between mb-1 border-b'>
+    <div className='w-screen py-2 sm:px-10 px-2 shadow  bg-white flex justify-between mb-1 border-b'>
       <div className='py-2'>
         <img src="/KoinXLogo.png" alt="logo"  />
       </div>
